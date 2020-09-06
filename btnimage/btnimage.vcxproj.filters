@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="btnimage.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="btnimageDoc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="btnimageView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Room2_3.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Room2_1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Room2_5.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Room2_2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Room1_2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Room1_9.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Room2_3to4.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Room2_paper.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="NomalDialog.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="btnimage.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="btnimageDoc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="btnimageView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Room2_3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Room2_1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Room2_5.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Room2_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Room1_2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Room1_9.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Room2_3to4.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Room2_paper.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="NomalDialog.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="btnimage.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\btnimage.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\btnimageDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\btnimage.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\room_bitmap.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\desktop\bitmap2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\room2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\room2_to_room3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Desktop\room2_dark.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room2_dark.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room2_to_room3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room1_1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room1_2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room1_3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room1_4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room1_5.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room1_6.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room1_7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room1_8.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room1_9.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room2_wrongpicture.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap8.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bmp00001.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bmp00002.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\key.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\nokey.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room2_paper.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Cover.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\StartBUtton.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\마포대교.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\explorer.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\눈효과 1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\눈효과 2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\눈효과 3333.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Test.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\pro_clear.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room1_clear.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room2_clear.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\KakaoTalk_20171210_164744929.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\KakaoTalk_20171210_171613113.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\리얼.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\리얼.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Get_Hint.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room3_glassbook.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room3_book.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room_book.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\room3_clear.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\GameOver.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ending.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\광운이형에게 보낸\새 폴더\roomescape\btnimage\res\explorer.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
